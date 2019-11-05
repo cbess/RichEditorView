@@ -11,6 +11,7 @@
 		C30652942372089A0057FC30 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30652912372089A0057FC30 /* String+Extensions.swift */; };
 		C30652952372089A0057FC30 /* RichEditorWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30652922372089A0057FC30 /* RichEditorWebView.swift */; };
 		C306529723720A660057FC30 /* UIView+Responder.swift in Sources */ = {isa = PBXBuildFile; fileRef = C306529623720A660057FC30 /* UIView+Responder.swift */; };
+		C306529D23720E1F0057FC30 /* assert.js in Resources */ = {isa = PBXBuildFile; fileRef = C306529C23720E1F0057FC30 /* assert.js */; };
 		FBA6AB051AD3EC9F00721644 /* RichEditorView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FBA6AAF91AD3EC9F00721644 /* RichEditorView.framework */; };
 		FBA6AB0C1AD3EC9F00721644 /* RichEditorViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA6AB0B1AD3EC9F00721644 /* RichEditorViewTests.swift */; };
 		FBA6AB4F1AD3ED2D00721644 /* normalize.css in Resources */ = {isa = PBXBuildFile; fileRef = FBA6AB191AD3ED2D00721644 /* normalize.css */; };
@@ -86,6 +87,7 @@
 		C30652912372089A0057FC30 /* String+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+Extensions.swift"; path = "Classes/String+Extensions.swift"; sourceTree = "<group>"; };
 		C30652922372089A0057FC30 /* RichEditorWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RichEditorWebView.swift; path = Classes/RichEditorWebView.swift; sourceTree = "<group>"; };
 		C306529623720A660057FC30 /* UIView+Responder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Responder.swift"; sourceTree = "<group>"; };
+		C306529C23720E1F0057FC30 /* assert.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = assert.js; sourceTree = "<group>"; };
 		FBA6AAF91AD3EC9F00721644 /* RichEditorView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RichEditorView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBA6AAFD1AD3EC9F00721644 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBA6AB041AD3EC9F00721644 /* RichEditorViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RichEditorViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -249,6 +251,7 @@
 		FBA6AB171AD3ED2D00721644 /* editor */ = {
 			isa = PBXGroup;
 			children = (
+				C306529C23720E1F0057FC30 /* assert.js */,
 				FBA6AB191AD3ED2D00721644 /* normalize.css */,
 				FBA6AB1A1AD3ED2D00721644 /* rich_editor.html */,
 				FBA6AB1B1AD3ED2D00721644 /* rich_editor.js */,
@@ -417,6 +420,7 @@
 				FBA6AB821AD3ED2D00721644 /* undo@2x.png in Resources */,
 				FBA6AB5B1AD3ED2D00721644 /* h2.png in Resources */,
 				FBA6AB7A1AD3ED2D00721644 /* subscript@2x.png in Resources */,
+				C306529D23720E1F0057FC30 /* assert.js in Resources */,
 				FBA6AB5F1AD3ED2D00721644 /* h4.png in Resources */,
 				FBA6AB681AD3ED2D00721644 /* insert_image@2x.png in Resources */,
 				FBA6AB651AD3ED2D00721644 /* indent.png in Resources */,
