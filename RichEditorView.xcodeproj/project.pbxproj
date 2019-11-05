@@ -91,7 +91,6 @@
 		FBA6AB041AD3EC9F00721644 /* RichEditorViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RichEditorViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBA6AB0A1AD3EC9F00721644 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBA6AB0B1AD3EC9F00721644 /* RichEditorViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichEditorViewTests.swift; sourceTree = "<group>"; };
-		FBA6AB181AD3ED2D00721644 /* checking.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = checking.js; sourceTree = "<group>"; };
 		FBA6AB191AD3ED2D00721644 /* normalize.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = normalize.css; sourceTree = "<group>"; };
 		FBA6AB1A1AD3ED2D00721644 /* rich_editor.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = rich_editor.html; sourceTree = "<group>"; };
 		FBA6AB1B1AD3ED2D00721644 /* rich_editor.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = rich_editor.js; sourceTree = "<group>"; };
@@ -250,7 +249,6 @@
 		FBA6AB171AD3ED2D00721644 /* editor */ = {
 			isa = PBXGroup;
 			children = (
-				FBA6AB181AD3ED2D00721644 /* checking.js */,
 				FBA6AB191AD3ED2D00721644 /* normalize.css */,
 				FBA6AB1A1AD3ED2D00721644 /* rich_editor.html */,
 				FBA6AB1B1AD3ED2D00721644 /* rich_editor.js */,
